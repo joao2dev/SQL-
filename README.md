@@ -8,6 +8,8 @@ gerenciar os participantes, as empresas, as apresentações, as salas e o
 comparecimento nas apresentações. Como esse banco de dados deve ser
 projetado?
 
+# ESQUEMA
+![Texto Alternativo](esquema.PNG) 
 # ENTIDADES
 
 ## Participantes
